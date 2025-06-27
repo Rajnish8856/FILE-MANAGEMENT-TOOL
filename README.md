@@ -49,3 +49,5 @@ In addition, a graphical user interface (GUI) could be introduced for a more use
 
 Conclusion
 The File Management Tool is a practical application that demonstrates essential file handling in C++. It provides a hands-on example of how to interact with the file system, manage user input, and handle common programming tasks. With a few enhancements, this tool can serve as the foundation for more advanced file management software.
+OUTPUT
+![Image](https://github.com/user-attachments/assets/b2debb49-b400-44a4-bf6b-a191cbc95e26)
